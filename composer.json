@@ -1,28 +1,17 @@
 {
-    "name": "phpmailer/phpmailer",
+    "name": "rusinov-artem/phpmailer",
     "type": "library",
     "description": "PHPMailer is a full-featured email creation and transfer class for PHP",
     "authors": [
         {
-            "name": "Marcus Bointon",
-            "email": "phpmailer@synchromedia.co.uk"
-        },
-        {
-            "name": "Jim Jagielski",
-            "email": "jimjag@gmail.com"
-        },
-        {
-            "name": "Andy Prevost",
-            "email": "codeworxtech@users.sourceforge.net"
-        },
-        {
-            "name": "Brent R. Matzelle"
+            "name": "Rusinov Artem",
+            "email": "rusinov.dev@gmail.com"
         }
     ],
     "funding": [
         {
-            "url": "https://github.com/Synchro",
-            "type": "github"
+            "url": "https://pay.mysbertips.ru/12247718",
+            "type": "other"
         }
     ],
     "config": {
